@@ -1,4 +1,4 @@
 # dayPlanner
 Organize your busy day
 
-![planner logo](/dayPlanner.png)
+![planner logo](/daPlanner.png)
