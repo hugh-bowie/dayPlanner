@@ -29,3 +29,31 @@ $('#7b').on('click', function () {
 	let data = $('input#7').val();
 	window.localStorage.setItem('7am', data);
 });
+$('#8b').on('click', function () {
+	let data = $('input#8').val();
+	window.localStorage.setItem('8am', data);
+});
+$('#9b').on('click', function () {
+	let data = $('input#9').val();
+	window.localStorage.setItem('9am', data);
+});
+$('#10b').on('click', function () {
+	let data = $('input#10').val();
+	window.localStorage.setItem('10am', data);
+});
+$('#11b').on('click', function () {
+	let data = $('input#11').val();
+	window.localStorage.setItem('11am', data);
+});
+$('#12b').on('click', function () {
+	let data = $('input#12').val();
+	window.localStorage.setItem('12am', data);
+});
+$('#13b').on('click', function () {
+	let data = $('input#13').val();
+	window.localStorage.setItem('13pm', data);
+});
+$('#14b').on('click', function () {
+	let data = $('input#14').val();
+	window.localStorage.setItem('14pm', data);
+});
