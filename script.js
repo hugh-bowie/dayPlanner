@@ -51,9 +51,21 @@ $('#12b').on('click', function () {
 });
 $('#13b').on('click', function () {
 	let data = $('input#13').val();
-	window.localStorage.setItem('13pm', data);
+	window.localStorage.setItem('1pm', data);
 });
 $('#14b').on('click', function () {
 	let data = $('input#14').val();
-	window.localStorage.setItem('14pm', data);
+	window.localStorage.setItem('2pm', data);
+});
+$('#15b').on('click', function () {
+	let data = $('input#15').val();
+	window.localStorage.setItem('3pm', data);
+});
+$('#16b').on('click', function () {
+	let data = $('input#16').val();
+	window.localStorage.setItem('4pm', data);
+});
+$('#17b').on('click', function () {
+	let data = $('input#17').val();
+	window.localStorage.setItem('5pm', data);
 });
