@@ -1,6 +1,8 @@
 //init moment
 var rightNow = moment().format('MMMM Do, YYYY - hh:mm:ss a');
 console.log(rightNow);
+var hour = moment().format('hh');
+console.log(hour);
 var pastDate = moment('12-01-1999', 'MM-DD-YYYY').format('dddd, MM/DD/YY');
 console.log(pastDate);
 // dcurrent date section
@@ -69,3 +71,16 @@ $('#17b').on('click', function () {
 	let data = $('input#17').val();
 	window.localStorage.setItem('5pm', data);
 });
+
+/*// Getting and setting colors
+const inputs = $('input').each(function () {
+	const ids = $(this).attr('id');
+
+	if (ids > hour) {
+		$(this).css('background-color', 'red');
+	}
+});
+const inpLen = inputs.length;
+console.log(inpLen);
+console.log(inputs);
+*/
