@@ -8,13 +8,10 @@
 
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/React-0099ff"  />
-    <img src="https://img.shields.io/badge/Apollo_Server-33cc33" />
-    <img src="https://img.shields.io/badge/Express-orange" />
-    <img src="https://img.shields.io/badge/graphQL-99ccff"  />
-    <img src="https://img.shields.io/badge/Jsonwebtoken-99ff99"  />
-    <img src="https://img.shields.io/badge/redux-blueviolet"  />
-    <img src="https://img.shields.io/badge/mongoose-ff4d4d"  />
+    <img src="https://img.shields.io/badge/JavaScript-yellow"  />
+    <img src="https://img.shields.io/badge/css-33cc33" />
+    <img src="https://img.shields.io/badge/localStorage-orange" />
+    <img src="https://img.shields.io/badge/html-99ccff"  />
 </p>
 
 ## 📓 Description
