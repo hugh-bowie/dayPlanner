@@ -65,11 +65,11 @@ THEN the saved events persist
 
 ## 🛠 Installation
 
-`npm init` `npm install`
+`Navigate to https://hugh-bowie.github.io/work-day-scheduler`
 
 ## ▶️ Useage
 
-`npm start`
+`Input your secret wishes`
 
 ## 🍻 Contributing
 
