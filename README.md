@@ -23,7 +23,7 @@ them to store upcoming tasks.
 
 ## 🎬 Screenshot
 
-![work-day-scheduler](./🛍️-Shop-Shop.gif)
+![work-day-scheduler](./assets/work-day-scheduler.PNG)
 
 ## 🃏 User Story
 
